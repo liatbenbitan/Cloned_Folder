@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 # New Python file!
-# New comment
+# New comment MISTAKE
 # This is new comment to check commit
 
